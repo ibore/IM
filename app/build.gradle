@@ -35,4 +35,6 @@ dependencies {
     compile 'com.android.support:support-vector-drawable:25.3.1'
     testCompile 'junit:junit:4.12'
     compile files('src/libs/netty-all-4.1.13.Final.jar')
+    compile files('src/libs/MobileIMSDK4a.jar')
+    compile files('src/libs/MobileIMSDKServerX_meta.jar')
 }
